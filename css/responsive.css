@@ -1,0 +1,226 @@
+/* laptop device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.app-shape-02 {
+    right: -25%;
+}
+
+}
+
+
+/* large device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li {
+        margin: 0 10px;
+    }
+    .slider-height {
+        min-height: 1050px;
+        background-position: center center;
+    }
+    .features-text p {
+        padding: 0 10px;
+    }
+    .how-work-img img {
+        max-width: 100%;
+    }
+    .pt-150 {
+        padding-top: 80px;
+    }
+    .latest-blog-img img {
+        max-width: 100%;
+    }
+    .subscribe-form {
+       padding-left: 0;
+    }
+    .subscribe-text h3 {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .latest-blog-content {
+        padding: 16px;
+     }
+     .l-b-meta span {
+        margin-right: 10px;
+    }
+    .inner-blog {
+        padding: 30px 30px;
+     }
+   
+}
+
+ 
+/* Tablet or md desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .slider-height {
+        min-height: 912px;
+        background-position: bottom;
+    }
+    .slider-content-space {
+        padding-top: 200px;
+    }
+    .shape-02 {
+        bottom: 25%;
+        left: 65%;
+    }
+    .shape-01 {
+        top: 11%;
+        left: 2%;
+    }
+    .features-text p {
+        padding: 0 4px;
+    }
+    .how-work-text.work-space {
+        top: 0;
+    }
+    .how-work-text {
+        padding-top: 0;
+        margin-bottom: 36px;
+    }
+    .price-box {
+        padding: 40px 35px;
+      }
+    .brand-heading.text-center.mb-50 {
+        padding-top: 50px;
+    }
+    .subscribe-form {
+        padding-left: 0;
+     }
+    .subscribe-text h3 {
+        text-align: center;
+        margin-bottom: 25px;
+     }
+     .latest-blog-img img {
+        max-width: 100%;
+    }
+    .inner-blog {
+        padding: 30px 35px;
+     }
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .slider-height {
+        min-height: 750px;
+        background-position: bottom;
+        background-position: center center;
+    }
+    .shape-wrapper {
+        display: none;
+    }
+    .slider-content-space {
+        padding-top: 150px;
+    }
+    .slide-text h2 {
+        font-size: 32px;
+    }
+    .slide-text p {
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .slide-btn a {
+        margin-bottom: 20px;
+    }
+    .fact-area {
+        padding-top: 100px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+    }
+    .section-title p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .features-text p {
+        padding: 0;
+    }
+    .video-wrapper {
+       padding-top: 110px;
+       background-position: center center;
+    }
+    .video-wrapper h3 {
+        font-size: 35px;
+    }
+    .video-wrapper i {
+        height: 100px;
+        width: 100px;
+        font-size: 25px;
+        line-height: 100px;
+    }
+    .how-work-img img {
+        max-width: 100%;
+    }
+    .how-work-text.pt-150 {
+        padding-top: 0;
+        margin-bottom: 35px;
+    }
+    .how-work-text h3 {
+        font-size: 25px;
+    }
+    .how-work-text.work-space {
+        top: 0;
+    }
+    .test-item p {
+        font-size: 20px;
+    }
+    .text-space {
+        padding-top: 350px;
+    }
+    .brand-heading.text-center.mb-50 {
+        padding-top: 50px;
+    }
+    .brand-heading h2 {
+        font-size: 24px;
+    }
+    .owl-carousel .owl-item img {
+        display: inline-block;
+        width: auto;
+    }
+    .owl-carousel .owl-item {
+        text-align: center;
+    }
+    .latest-blog-img img {
+        max-width: 100%;
+    }
+    .inner-blog {
+        padding: 30px 30px;
+    }
+    .test-img-active img {
+        display: inline-block;
+    }
+    .test-img-active {
+        max-width: 300px;
+    }
+    .subscrube-space {
+        padding: 40px 40px;
+        text-align: center;
+    }
+    .subscribe-text h3 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .subscribe-form {
+        padding-left: 0;
+    }
+    .subscribe-form button {
+        position: static;
+        margin-top: 15px;
+    }
+    .available-text h2 {
+        font-size: 30px;
+    }
+    .available-btn {
+        margin-bottom: 20px;
+    }
+    .available-area.pb-80 {
+        padding-bottom: 40px;
+    }
+
+    
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+}
